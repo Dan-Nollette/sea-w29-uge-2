@@ -11,8 +11,9 @@ ls ~
 cd Downloads/
 ls
 cd /Users/Lisa/
+#bananarama
 /Applications/
-cd 
+cd
 ls -r
 ls t
 cd data/
@@ -43,7 +44,7 @@ curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'lmshackelford@gmail.com'
 git config --global user.name 'Lisa Shackelford'
 brew install git
-echo 
+echo
 subl /etc/paths
 echo $EDITOR
 set -gx EDITOR 'subl -w'
@@ -59,8 +60,8 @@ brew doctor
 brew update
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 uname
-ls -l moving_around.txt 
-subl moving_around.txt 
+ls -l moving_around.txt
+subl moving_around.txt
 ls -t
 ls
 history > moving_around.txt
@@ -76,7 +77,7 @@ ls ~
 cd Downloads/
 cd /Users/Lisa/
 /Applications/
-cd 
+cd
 ls -r
 ls t
 cd data/
@@ -107,7 +108,7 @@ curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'lmshackelford@gmail.com'
 git config --global user.name 'Lisa Shackelford'
 brew install git
-echo 
+echo
 subl /etc/paths
 echo $EDITOR
 set -gx EDITOR 'subl -w'
