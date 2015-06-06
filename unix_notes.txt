@@ -1,0 +1,125 @@
+cd
+history | less
+history
+clear
+pwd
+cd ..
+cd /
+ls -t
+ls ~
+..
+cd Downloads/
+ls
+cd /Users/Lisa/
+/Applications/
+cd 
+ls -r
+ls t
+cd data/
+ls -l
+cd /User/Lisa
+ls -R
+ls -Sl
+ls -S
+man ls
+ls -rtl
+ls -rt
+ls -tr
+ls -lt
+git config --global user.email
+git config --global user.name
+which git
+git --version
+echo $PATH
+subl /etc/path/
+subl ~/.config/fish/config.fish
+subl
+which subl
+echo $SHELL
+echo $shell
+which fish
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'lmshackelford@gmail.com'
+git config --global user.name 'Lisa Shackelford'
+brew install git
+echo 
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+ls -l moving_around.txt 
+subl moving_around.txt 
+ls -t
+ls
+history > moving_around.txt
+cd
+history | less
+history
+clear
+pwd
+cd ..
+cd /
+ls ~
+..
+cd Downloads/
+cd /Users/Lisa/
+/Applications/
+cd 
+ls -r
+ls t
+cd data/
+ls -l
+cd /User/Lisa
+ls -R
+ls -Sl
+ls -S
+man ls
+ls -rtl
+ls -rt
+ls -tr
+ls -lt
+git config --global user.email
+git config --global user.name
+which git
+git --version
+echo $PATH
+subl /etc/path/
+subl ~/.config/fish/config.fish
+subl
+which subl
+echo $SHELL
+echo $shell
+which fish
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'lmshackelford@gmail.com'
+git config --global user.name 'Lisa Shackelford'
+brew install git
+echo 
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
