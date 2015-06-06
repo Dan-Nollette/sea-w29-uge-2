@@ -1,3 +1,33 @@
+git branch
+
+# used git checkout to change from the master branch to the newly made git-notes branch.
+git checkout git-notes
+
+# added new branch
+git branch git-notes
+
+git commit -m "Add comment about showing hidden files"
+git add unix_notes.txt
+subl unix_notes.txt
+git log
+
+# in a rushed moment I just added a dumb note to test committing changes.
+git commit -m "Bananarama notice"
+git diff --staged
+git diff
+git status
+
+#this is where you commit the change, and note why.
+git commit -m "Add initial version of unix notes."
+
+#moving up in directories.
+cd ..
+
+ls
+cd .git
+ls -a
+git init
+
 #display hidden files
 ls -a
 
