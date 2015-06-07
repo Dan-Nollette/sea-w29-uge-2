@@ -1,5 +1,6 @@
 git branch
 
+# What a lovely day to not be outside
 # used git checkout to change from the master branch to the newly made git-notes branch.
 git checkout git-notes
 
